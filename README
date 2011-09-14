@@ -1,1 +1,3 @@
 This is a sample app using wijmo's JavaScript library to render chart in a Windows 8 Metro application. It also uses jQuery, jQuery UI, Raphael and other plugins. The purpose is to show an experiment of using existing libs in Win8.
+
+Tutorial blog here: http://wijmo.com/wijmo-charts-in-windows-8/
