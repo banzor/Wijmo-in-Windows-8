@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUAVE</Machine>
+    <WindowsUser>bman</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2011-09-14T22:50:49.078</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2011-09-14T14:33:57.428</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\homePage.css">
+      <PackagePath>css\homePage.css</PackagePath>
+      <Modified>2011-09-14T14:33:57.444</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\jquery.wijmo-complete.1.4.1.css">
+      <PackagePath>css\wijmo\jquery.wijmo-complete.1.4.1.css</PackagePath>
+      <Modified>2011-09-14T14:00:31.879</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\jquery.wijmo-open.1.4.1.css">
+      <PackagePath>css\wijmo\jquery.wijmo-open.1.4.1.css</PackagePath>
+      <Modified>2011-09-14T14:00:39.081</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_diagonals-thick_50_00a6dd_40x40.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_diagonals-thick_50_00a6dd_40x40.png</PackagePath>
+      <Modified>2011-09-14T14:00:36.894</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_flat_0_aaaaaa_40x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_flat_0_aaaaaa_40x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:36.907</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_flat_100_f1f1f1_40x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_flat_100_f1f1f1_40x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:36.920</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_highlight-soft_15_242122_1x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_highlight-soft_15_242122_1x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:36.933</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_highlight-soft_15_242122_1x100_bottom.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_highlight-soft_15_242122_1x100_bottom.png</PackagePath>
+      <Modified>2011-09-14T14:00:36.946</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_highlight-soft_15_333333_1x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_highlight-soft_15_333333_1x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:36.959</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_highlight-soft_15_333333_1x100_50.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_highlight-soft_15_333333_1x100_50.png</PackagePath>
+      <Modified>2011-09-14T14:00:36.972</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_highlight-soft_15_65358a_1x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_highlight-soft_15_65358a_1x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:36.985</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_highlight-soft_15_8A56B2_1x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_highlight-soft_15_8A56B2_1x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:36.999</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_highlight-soft_15_9eca38_1x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_highlight-soft_15_9eca38_1x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.013</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_highlight-soft_15_9eca38_1x100_50.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_highlight-soft_15_9eca38_1x100_50.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.026</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_highlight-soft_15_ca3838_1x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_highlight-soft_15_ca3838_1x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.040</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_highlight-soft_35_00a6dd_1x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_highlight-soft_35_00a6dd_1x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.053</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_inset-soft_100_e1e1e1_1x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_inset-soft_100_e1e1e1_1x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.066</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_inset-soft_15_242122_1x100 - Copy.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_inset-soft_15_242122_1x100 - Copy.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.078</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-bg_inset-soft_15_242122_1x100.png">
+      <PackagePath>css\wijmo\rocket\images\ui-bg_inset-soft_15_242122_1x100.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.091</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-icons_00a6dd_256x240.png">
+      <PackagePath>css\wijmo\rocket\images\ui-icons_00a6dd_256x240.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.104</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-icons_304915_256x240.png">
+      <PackagePath>css\wijmo\rocket\images\ui-icons_304915_256x240.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.117</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-icons_d399ff_256x240.png">
+      <PackagePath>css\wijmo\rocket\images\ui-icons_d399ff_256x240.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.130</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-icons_eaffb9_256x240.png">
+      <PackagePath>css\wijmo\rocket\images\ui-icons_eaffb9_256x240.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.143</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-icons_f4f4f9_256x240.png">
+      <PackagePath>css\wijmo\rocket\images\ui-icons_f4f4f9_256x240.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.155</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-icons_fafafa_256x240.png">
+      <PackagePath>css\wijmo\rocket\images\ui-icons_fafafa_256x240.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.168</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\images\ui-icons_ff8f8f_256x240.png">
+      <PackagePath>css\wijmo\rocket\images\ui-icons_ff8f8f_256x240.png</PackagePath>
+      <Modified>2011-09-14T14:00:37.181</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\css\wijmo\rocket\jquery-wijmo.css">
+      <PackagePath>css\wijmo\rocket\jquery-wijmo.css</PackagePath>
+      <Modified>2011-09-14T14:00:36.877</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2011-09-14T22:50:49.046</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2011-09-14T14:52:54.566</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\html\homePage.html">
+      <PackagePath>html\homePage.html</PackagePath>
+      <Modified>2011-09-14T15:29:29.170</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2011-09-14T14:50:38.760</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\js\homePage.js">
+      <PackagePath>js\homePage.js</PackagePath>
+      <Modified>2011-09-14T15:28:40.475</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\js\wijmo\external\jquery-1.6.2.min.js">
+      <PackagePath>js\wijmo\external\jquery-1.6.2.min.js</PackagePath>
+      <Modified>2011-09-14T14:51:30.962</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\js\wijmo\external\jquery-ui-1.8.16.custom.min.js">
+      <PackagePath>js\wijmo\external\jquery-ui-1.8.16.custom.min.js</PackagePath>
+      <Modified>2011-09-14T14:00:32.072</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\js\wijmo\external\jquery.bgiframe-2.1.3-pre.js">
+      <PackagePath>js\wijmo\external\jquery.bgiframe-2.1.3-pre.js</PackagePath>
+      <Modified>2011-09-14T14:00:32.086</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\js\wijmo\external\jquery.glob.min.js">
+      <PackagePath>js\wijmo\external\jquery.glob.min.js</PackagePath>
+      <Modified>2011-09-14T14:00:32.126</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\js\wijmo\external\jquery.mousewheel.min.js">
+      <PackagePath>js\wijmo\external\jquery.mousewheel.min.js</PackagePath>
+      <Modified>2011-09-14T14:00:32.139</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\js\wijmo\external\raphael.js">
+      <PackagePath>js\wijmo\external\raphael.js</PackagePath>
+      <Modified>2011-09-14T14:00:32.718</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\js\wijmo\jquery.wijmo-complete.1.4.1.min.js">
+      <PackagePath>js\wijmo\jquery.wijmo-complete.1.4.1.min.js</PackagePath>
+      <Modified>2011-09-14T14:00:39.003</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\js\wijmo\jquery.wijmo-open.1.4.1.min.js">
+      <PackagePath>js\wijmo\jquery.wijmo-open.1.4.1.min.js</PackagePath>
+      <Modified>2011-09-14T14:00:44.174</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\winjs\Css\ui-dark.css">
+      <PackagePath>winjs\Css\ui-dark.css</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\winjs\Css\ui-light.css">
+      <PackagePath>winjs\Css\ui-light.css</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\winjs\js\animations.js">
+      <PackagePath>winjs\js\animations.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\winjs\js\base.js">
+      <PackagePath>winjs\js\base.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\winjs\js\binding.js">
+      <PackagePath>winjs\js\binding.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\winjs\js\controls.js">
+      <PackagePath>winjs\js\controls.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\winjs\js\res.js">
+      <PackagePath>winjs\js\res.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\winjs\js\ui.js">
+      <PackagePath>winjs\js\ui.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\winjs\js\uicollections.js">
+      <PackagePath>winjs\js\uicollections.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\bman\Documents\Visual Studio 11\Projects\WinWebApp3\WinWebApp3\winjs\js\wwaapp.js">
+      <PackagePath>winjs\js\wwaapp.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+  </ItemGroup>
+</Project>

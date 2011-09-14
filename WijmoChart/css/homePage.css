@@ -1,0 +1,9 @@
+﻿.homePage section[role=main] {
+    margin-left: 120px;
+}
+
+@media screen and (-ms-view-state: snapped) {
+.homePage section[role=main] {
+    margin-left: 20px;
+}
+}

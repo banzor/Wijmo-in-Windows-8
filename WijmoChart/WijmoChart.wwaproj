@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{1b66af57-5115-4973-8e4c-d0d71fa19991}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\4.0\Microsoft.VisualStudioVersion.v11.Common.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\WWAProject\Microsoft.VisualStudio.WWAProject.Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\WWAProject\Microsoft.VisualStudio.WWAProject.props" />
+  <PropertyGroup>
+    <DefaultLanguage>en-US</DefaultLanguage>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest" />
+    <Content Include="css\default.css" />
+    <Content Include="css\homePage.css" />
+    <Content Include="css\wijmo\jquery.wijmo-complete.1.4.1.css" />
+    <Content Include="css\wijmo\jquery.wijmo-open.1.4.1.css" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_diagonals-thick_50_00a6dd_40x40.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_flat_100_f1f1f1_40x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_highlight-soft_15_242122_1x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_highlight-soft_15_242122_1x100_bottom.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_highlight-soft_15_333333_1x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_highlight-soft_15_333333_1x100_50.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_highlight-soft_15_65358a_1x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_highlight-soft_15_8A56B2_1x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_highlight-soft_15_9eca38_1x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_highlight-soft_15_9eca38_1x100_50.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_highlight-soft_15_ca3838_1x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_highlight-soft_35_00a6dd_1x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_inset-soft_100_e1e1e1_1x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_inset-soft_15_242122_1x100 - Copy.png" />
+    <Content Include="css\wijmo\rocket\images\ui-bg_inset-soft_15_242122_1x100.png" />
+    <Content Include="css\wijmo\rocket\images\ui-icons_00a6dd_256x240.png" />
+    <Content Include="css\wijmo\rocket\images\ui-icons_304915_256x240.png" />
+    <Content Include="css\wijmo\rocket\images\ui-icons_d399ff_256x240.png" />
+    <Content Include="css\wijmo\rocket\images\ui-icons_eaffb9_256x240.png" />
+    <Content Include="css\wijmo\rocket\images\ui-icons_f4f4f9_256x240.png" />
+    <Content Include="css\wijmo\rocket\images\ui-icons_fafafa_256x240.png" />
+    <Content Include="css\wijmo\rocket\images\ui-icons_ff8f8f_256x240.png" />
+    <Content Include="css\wijmo\rocket\jquery-wijmo.css" />
+    <Content Include="default.html" />
+    <Content Include="html\homePage.html" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\smalllogo.png" />
+    <Content Include="images\splashscreen.png" />
+    <Content Include="images\storelogo.png" />
+    <Content Include="js\wijmo\external\jquery-1.6.2.min.js" />
+    <Content Include="js\wijmo\external\jquery-ui-1.8.16.custom.min.js" />
+    <Content Include="js\wijmo\external\jquery.bgiframe-2.1.3-pre.js" />
+    <Content Include="js\wijmo\external\jquery.glob.min.js" />
+    <Content Include="js\wijmo\external\jquery.mousewheel.min.js" />
+    <Content Include="js\wijmo\external\raphael.js" />
+    <Content Include="js\wijmo\jquery.wijmo-complete.1.4.1.min.js" />
+    <Content Include="js\wijmo\jquery.wijmo-open.1.4.1.min.js" />
+    <Content Include="winjs\Css\ui-dark.css" />
+    <Content Include="winjs\Css\ui-light.css" />
+    <Content Include="winjs\js\animations.js" />
+    <Content Include="winjs\js\base.js" />
+    <Content Include="winjs\js\binding.js" />
+    <Content Include="winjs\js\controls.js" />
+    <Content Include="winjs\js\res.js" />
+    <Content Include="winjs\js\ui.js" />
+    <Content Include="winjs\js\uicollections.js" />
+    <Content Include="winjs\js\wwaapp.js" />
+    <Content Include="js\default.js" />
+    <Content Include="js\homePage.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\WWAProject\Microsoft.VisualStudio.WWAProject.targets" />
+</Project>
